@@ -1,3 +1,3 @@
 This is simple Parallax website
 
-https://shivam-khatkale.netlify.app/
+https://shivam-khatkale-parallax-website.netlify.app/
